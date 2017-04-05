@@ -112,7 +112,7 @@
 
 这个小章节是一些在每日计划开始前我想去了解的一些预备知识与一些有趣的信息。
 
-- [ ] [Data Analytics，Data Analysis，数据挖掘，数据科学，机器学习，大数据的区别是什么？](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [x] [Data Analytics，Data Analysis，数据挖掘，数据科学，机器学习，大数据的区别是什么？](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [ ] [学习如何去学习](https://www.coursera.org/learn/learning-how-to-learn)
 - [ ] [不要斩断锁链](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [ ] [如何自学](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
